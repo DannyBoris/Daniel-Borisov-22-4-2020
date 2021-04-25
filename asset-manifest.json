@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Daniel-Borisov-22-4-2020/static/css/main.5b59fb36.chunk.css",
+    "main.js": "/Daniel-Borisov-22-4-2020/static/js/main.528e849f.chunk.js",
+    "main.js.map": "/Daniel-Borisov-22-4-2020/static/js/main.528e849f.chunk.js.map",
+    "runtime-main.js": "/Daniel-Borisov-22-4-2020/static/js/runtime-main.48a7b2c5.js",
+    "runtime-main.js.map": "/Daniel-Borisov-22-4-2020/static/js/runtime-main.48a7b2c5.js.map",
+    "static/js/2.b6e34c49.chunk.js": "/Daniel-Borisov-22-4-2020/static/js/2.b6e34c49.chunk.js",
+    "static/js/2.b6e34c49.chunk.js.map": "/Daniel-Borisov-22-4-2020/static/js/2.b6e34c49.chunk.js.map",
+    "static/js/3.5b4f7c49.chunk.js": "/Daniel-Borisov-22-4-2020/static/js/3.5b4f7c49.chunk.js",
+    "static/js/3.5b4f7c49.chunk.js.map": "/Daniel-Borisov-22-4-2020/static/js/3.5b4f7c49.chunk.js.map",
+    "index.html": "/Daniel-Borisov-22-4-2020/index.html",
+    "static/css/main.5b59fb36.chunk.css.map": "/Daniel-Borisov-22-4-2020/static/css/main.5b59fb36.chunk.css.map",
+    "static/js/2.b6e34c49.chunk.js.LICENSE.txt": "/Daniel-Borisov-22-4-2020/static/js/2.b6e34c49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a7b2c5.js",
+    "static/js/2.b6e34c49.chunk.js",
+    "static/css/main.5b59fb36.chunk.css",
+    "static/js/main.528e849f.chunk.js"
+  ]
+}
