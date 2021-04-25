@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import './index.css'
 import App from './containers/App'
 import reportWebVitals from './reportWebVitals'
-import { BrowserRouter as Router } from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom' // for gh-pages  (find way to use browser router)
 import { Provider } from 'react-redux'
 import { configureStore } from './store'
 import { SnackbarProvider } from 'notistack'
@@ -14,7 +14,7 @@ ReactDOM.render(
 	<React.StrictMode>
 		<SnackbarProvider maxSnack={1}>
 			<Provider store={store}>
-				<Router>
+				<Router basename={process.env.PUBLIC_URL}>
 					<App />
 				</Router>
 			</Provider>

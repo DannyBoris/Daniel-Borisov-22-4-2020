@@ -35,8 +35,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "http://DannyBoris.github.io/Daniel-Borisov-22-4-2020",
   "eslintConfig": {
     "extends": [
       "react-app",
