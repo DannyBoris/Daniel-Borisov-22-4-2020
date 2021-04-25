@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Daniel-Borisov-22-4-2020/static/css/main.5b59fb36.chunk.css",
-    "main.js": "/Daniel-Borisov-22-4-2020/static/js/main.891f9f3d.chunk.js",
-    "main.js.map": "/Daniel-Borisov-22-4-2020/static/js/main.891f9f3d.chunk.js.map",
+    "main.js": "/Daniel-Borisov-22-4-2020/static/js/main.599cc5c3.chunk.js",
+    "main.js.map": "/Daniel-Borisov-22-4-2020/static/js/main.599cc5c3.chunk.js.map",
     "runtime-main.js": "/Daniel-Borisov-22-4-2020/static/js/runtime-main.3bb2f72a.js",
     "runtime-main.js.map": "/Daniel-Borisov-22-4-2020/static/js/runtime-main.3bb2f72a.js.map",
     "static/js/2.55e25f02.chunk.js": "/Daniel-Borisov-22-4-2020/static/js/2.55e25f02.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3bb2f72a.js",
     "static/js/2.55e25f02.chunk.js",
     "static/css/main.5b59fb36.chunk.css",
-    "static/js/main.891f9f3d.chunk.js"
+    "static/js/main.599cc5c3.chunk.js"
   ]
 }
