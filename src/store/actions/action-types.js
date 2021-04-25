@@ -1,0 +1,6 @@
+export const SET_CURRENT_WEATHER = 'SET_CURRENT_WEATHER'
+export const ADD_FAVORITE = 'ADD_FAVORITE'
+export const REMOVE_FAVORITE = 'REMOVE_FAVORITE'
+export const SET_ERROR = 'SET_ERROR'
+export const SET_TEMP_MEASURE = 'SET_TEMP_MEASURE'
+export const SET_THEME = 'SET_THEME'
